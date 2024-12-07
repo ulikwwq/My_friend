@@ -61,7 +61,7 @@ section {
     transition: transform 0.3s;
 }
 
-.gallery-item img {
+.gallery-item{
     width: 25%;
     border-radius: 10px;
 }
